@@ -38,6 +38,9 @@ Edit:
 
 # Libraries
 To make the code run you need the DFfile library, which you can find in my other repository "DFET". Both programs access this same library.
+For the UI you need wxWidgets.
+Also use at least C++ 17 to compile.
+hats all. With these two you should be all set.
 
 # Anything else?
 Nah, not really. I know its not great and if I ever come back to it I would probably rewrite the whole thing. But if you are a programmer who finds this interesting, be my guest. You can also make pull requests if you want to work on it, so eventually its not gonna be abandod anymore. But of course you can also use the knowledge for your own projects.

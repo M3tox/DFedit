@@ -1,7 +1,7 @@
 # About
 This was ment as a tool to edit games made with DreamFactory. I was starting to work on it 3 years ago already but just dont have the time to actually finish it. Will I ever come back to this? Hopefully, but I don't know and this is why it was decided to upload its code and a very early build, so someone may continue on it or use it to learn more about DF in general.
 
-NOTE: THIS IS VERY UNFINISHED AND JUST HERE FOR LEARNING PURPOSE, SO PLEASE IGNORE THE ISSUES TAB FOR THIS ABANDOD PROJECT
+NOTE: THIS IS VERY UNFINISHED AND JUST HERE FOR LEARNING PURPOSE, SO PLEASE IGNORE THE ISSUES TAB FOR THIS ABANDONED PROJECT
 
 # What can it do?
 Not so much honestly. I used it to make new sets in the past or modify them, but without knowing the internals its not very usueful. However, the least you can do is inspecting the SET files and partially the PUP files (but only the tree view). If you want to change the SETs logic, you can do so by changing the code in the scripts. You will find them in the tree view. Click them, a new window will pop up and save the changes. However, there is no error checking whatssoever. If something is wrong in the script, the set file will crash. Also if you do that, don't forget to also save the actual SET file.

@@ -7,7 +7,8 @@ Not so much honestly. I used it to make new sets in the past or modify them, but
 
 # UI
 The UI should look like this:
-<img width="964" height="670" alt="grafik" src="https://github.com/user-attachments/assets/6af533ad-7c00-43d0-8d47-8049742b7a83" />
+<img width="964" height="670" alt="grafik" src="https://github.com/user-attachments/assets/201564c2-4525-4c2e-accb-8d0571cb7f2c" />
+
 
 The right window is the viewport and below a console to output text based information about the file. The viewport is used to load maps from the SET files. On top of that it will also draw additional information like waypoints, markers etc.
 
